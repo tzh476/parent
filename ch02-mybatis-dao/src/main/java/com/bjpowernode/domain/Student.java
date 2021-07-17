@@ -1,8 +1,7 @@
-package zehao.test;
+package com.bjpowernode.domain;
 
-//推荐和表名一样。容易记忆
 public class Student {
-    //定义属性， 目前要求是属性名和列名一样。
+
     private Integer id;
     private String name;
     private String email;

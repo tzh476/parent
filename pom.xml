@@ -3,6 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
   <modules>
     <module>mybatis3</module>
+    <module>ch01-hello-mybatis</module>
+    <module>ch02-mybatis-dao</module>
+    <module>ch03-proxy-dao</module>
+    <module>ch04-param</module>
+    <module>ch05-return-result</module>
+    <module>ch06-dynamic-sql</module>
   </modules>
   <groupId>org.mybatis</groupId>
   <artifactId>mybatis-parent</artifactId>
